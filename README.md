@@ -1,3 +1,42 @@
-# PI - Dev-Sistemas-Moveis-e-Web
+# 📱 Mpox Tracker - Aplicativo de Registro de Casos
+Este aplicativo foi desenvolvido por:
 
-Este repositório contém o código e os materiais relacionados ao desenvolvimento de uma ferramenta digital para monitoramento, notificação e gestão de casos de Mpox. O sistema foi projetado para fornecer uma plataforma eficiente para coletar e organizar dados sobre a doença em tempo real, facilitando a resposta rápida das autoridades de saúde e a disseminação de informações confiáveis para a população.
+Alessandro de Oliveira Rocha
+
+João Victor Martins dos Santos
+
+Victor Macedo Pereira
+
+Alunos do curso de Análise e Desenvolvimento de Sistemas, com o objetivo de criar uma solução tecnológica voltada para a área da saúde.
+
+🎯 Objetivo do Aplicativo
+O Mpox Tracker é um aplicativo mobile desenvolvido em React Native (usando Expo) que visa:
+
+Registrar novos casos da doença Mpox (conhecida popularmente como varíola dos macacos).
+
+Permitir o cadastro de sintomas apresentados por usuários.
+
+Informar se o usuário teve contato com outras pessoas sintomáticas.
+
+Armazenar informações básicas como nome, idade, sexo e localização para análise e mapeamento.
+
+Contribuir para o gerenciamento e controle da propagação da doença, permitindo identificar possíveis focos ou áreas com sintomas semelhantes.
+
+🚀 Como usar
+O usuário acessa o aplicativo e realiza seu cadastro.
+
+Informa seus sintomas atuais, caso possua.
+
+Indica se conhece alguém com sintomas semelhantes.
+
+Por fim, pode visualizar um resumo dos dados inseridos.
+
+📦 Tecnologias utilizadas
+React Native (via Expo)
+
+React Navigation para navegação entre telas
+
+JavaScript
+
+Estilo com StyleSheet nativo do React Native
+
