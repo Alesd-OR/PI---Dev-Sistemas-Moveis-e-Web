@@ -40,3 +40,4 @@ JavaScript
 
 Estilo com StyleSheet nativo do React Native
 
+Link do repositório no Expo: https://snack.expo.dev/@alessandro_de_oliveira/pti---mpox
