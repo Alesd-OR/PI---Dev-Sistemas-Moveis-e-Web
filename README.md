@@ -5,8 +5,6 @@ Alessandro de Oliveira Rocha
 
 João Victor Martins dos Santos
 
-Victor Macedo Pereira
-
 Alunos do curso de Análise e Desenvolvimento de Sistemas, com o objetivo de criar uma solução tecnológica voltada para a área da saúde.
 
 🎯 Objetivo do Aplicativo
