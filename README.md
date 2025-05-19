@@ -5,6 +5,8 @@ Alessandro de Oliveira Rocha
 
 João Victor Martins dos Santos
 
+Os alunos restantes do grupo ou não responderam nossa tentativa de contato, ou não contribuiram nessa 2° etapa do projeto, somente os alunos listados.
+
 Alunos do curso de Análise e Desenvolvimento de Sistemas, com o objetivo de criar uma solução tecnológica voltada para a área da saúde.
 
 🎯 Objetivo do Aplicativo
